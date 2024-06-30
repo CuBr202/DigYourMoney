@@ -16,6 +16,7 @@ New Game为新游戏<br>
 Continue为读取上一次存档接着游戏<br>
 
 ### 游戏主界面
+左下为保存游戏，支持保存退出以及不保存直接退出<br>
 左上为现有资源持有量<br>
 右上为钱币持有量以及每0.1s钱币生产量(IncomeSpeed)<br>
 IncomeSpeed=speedBase(基础速度，初始为5) x speedMult(速度乘区，初始为1) <br>
